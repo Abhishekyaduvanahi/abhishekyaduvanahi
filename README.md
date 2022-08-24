@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">I am a smart mover ,great learner ,Consistent,believer in karma and focused on Today</h3>
+<h3 align="center">I am a smart mover ,great learner ,Consistent,believer in karma and focused on Today </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekyaduvanahi&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyaduvanahi" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhishekyaduvanshi2k16@gmail.com**
 
-- ⚡ Fun fact **I can make you laugh....**
+- ⚡ Fun fact ** I Think ,I can make you laugh....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
