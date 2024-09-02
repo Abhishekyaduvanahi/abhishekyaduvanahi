@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Yadav</h1>
-<h3 align="center">I am a smart mover ,great learner ,Consistent,believer in karma and focused on Today </h3>
+<h3 align="center"> Working on MERN </h3>
 
 
 
