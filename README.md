@@ -5,12 +5,12 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="[https://www.youtube.com/channel/UCeKE6wQHTt5JpS9_RsH4hrg](https://www.youtube.com/results?search_query=hatcoder)" target="_blank">
+  <a href="https://www.youtube.com/@hatcoder" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/ohmiler">
+<!--   <a href="https://twitter.com/ohmiler">
     <img src="#" alt="Twitter Badge"/>
-  </a>
+  </a> -->
   <br>
   <img src="https://komarev.com/ghpvc/?username=abhishekyaduvanahi&style=flat-square&color=blue" alt="account counter"/>
 </div>
